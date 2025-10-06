@@ -1,4 +1,4 @@
-# Hi There!
+# Hi there!
 I'm Shinnosuke Ue, a university student at Keio University.  
 I'm currently an intern at [OH MY GOD Inc.](https://ohmygod.jp), where I'm gaining hands-on experience in modern web development.
 
