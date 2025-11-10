@@ -6,11 +6,13 @@ Currently, I'm an intern at [OH MY GOD Inc.](https://ohmygod.jp), where I’m ga
 ---
 
 ## 🚀 Achievements
-- **ampAI🎸** — *Semifinalist*, Tongali Business Plan Contest 2025  
+- **ampAI🎸** — *Winner*, 26th Shonan Business Contest  
+  🏆 **Startup Award** & **Shonan Shinkin Bank Award**  
+  *Semifinalist*, Tongali Business Plan Contest 2025  
   → AI-driven guitar tone generator built with Nuxt, Firebase, and OpenAI API  
+
 - **KIRUKA🌲** — *Finalist*, Tokyo Governor’s Cup Open Data Hackathon 2025  
   → Open data app connecting communities through local tree-planting initiatives
-
 ---
 
 ## 🧠 Learning
