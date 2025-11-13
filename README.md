@@ -25,6 +25,6 @@ Currently, I'm an intern at [OH MY GOD Inc.](https://ohmygod.jp), where I’m ga
 
 ## 💡 Production
 - [ampAI🎸](https://ampai.vercel.app) — AI sound design assistant for guitar tones  
-- [KIRUKA🌲](https://kiruka.vercel.app/lp) — Open data visualization app for sustainability
+- [KIRUKA🌲(demo)](https://kiruka.vercel.app/lp) — Open data visualization app for sustainability
 
 ---
