@@ -18,7 +18,7 @@ Currently, I'm an intern at [OH MY GOD Inc.](https://ohmygod.jp), where I’m ga
 ## 🧠 Learning
 **Frontend:** Nuxt / Vue.js / TypeScript  
 **Backend:** Firebase / Node.js  
-**Mobile:** Flutter  
+**Mobile:** Flutter / Swift
 **Others:** Python / LINE Platform (Messaging API / LIFF / Mini App)
 
 ---
