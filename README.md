@@ -27,5 +27,5 @@ Currently, I'm an intern at [OH MY GOD Inc.](https://ohmygod.jp), where I’m ga
 - [ampAI🎸](https://ampai.vercel.app) — AI sound design assistant for guitar tones  
 - [KIRUKA🌲](https://kiruka.vercel.app) — Open data visualization app for sustainability
 - [Sokuresu⚡️](https://sokuresu.onrender.com/) — AI Reply Assistant
-- [CloudBet☁️](https://weather-prediction-game.vercel.app/) — Weather Prediction Game
+- [CloudBet☁️](https://cloud-bet.vercel.app/) — Weather Prediction Game
 ---
