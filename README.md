@@ -29,4 +29,5 @@ Currently, I'm an intern at [OH MY GOD Inc.](https://ohmygod.jp), where I’m ga
 - [KIRUKA🌲](https://kiruka.vercel.app) — Open data visualization app for sustainability
 - [Sokuresu⚡️](https://sokuresu.onrender.com/) — AI Reply Assistant
 - [CloudBet☁️](https://cloud-bet.vercel.app/) — Weather Prediction Game
+- [LabBase🔬](https://labbase.vercel.app/) — Laboratory Information Management System
 ---
