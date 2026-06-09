@@ -11,7 +11,8 @@ Currently, I'm an intern at [OH MY GOD Inc.](https://ohmygod.jp), where I’m ga
   *Semifinalist*, Tongali Business Plan Contest 2025  
   → AI-driven guitar tone generator built with Nuxt, Firebase, and OpenAI API  
 
-- **KIRUKA🌲** — *Finalist*, Tokyo Governor’s Cup Open Data Hackathon 2025  
+- **KIRUKA🌲** — *2nd Place*, SIH International Business Creation Contest 2026 Asia-Pacific (Japan) Qualifier  
+  *Finalist*, Tokyo Governor’s Cup Open Data Hackathon 2025  
   → Open data app connecting communities through local tree-planting initiatives
 ---
 
